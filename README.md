@@ -25,3 +25,6 @@ Step 3. Run Kaggle_eff_submit.ipynb to submit final results.
 ## Results
 
 <div align=center><img src="https://github.com/ge25nab/Global-Wheat-Detection-/blob/master/img1.png" width="600" height="450" /></div>
+
+prediction format
+<div align=center><img src="https://github.com/ge25nab/Global-Wheat-Detection-/blob/master/img2.png" width="600" height="450" /></div>
